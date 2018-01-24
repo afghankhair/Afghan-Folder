@@ -6,3 +6,5 @@
        </apex:pageBlockTable>
     </apex:pageBlock>
 </apex:page>
+
+This is a sample VF code
